@@ -26,7 +26,7 @@ This project is part of the **CodeAlpha Internship Program**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Portfolio.git
+   git clone https://github.com/theBestYouCanGet/Portfolio.git
    cd Portfolio/client
    npm install
    npm run dev
